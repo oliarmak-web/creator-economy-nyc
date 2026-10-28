@@ -1,1 +1,2 @@
-{"name":"creator-economy-nyc","version":"1.0.0","private":true,"scripts":{"dev":"node server.mjs","build":"node build.mjs"}}
+{"name":"creator-economy-hack-nyc","version":"1.0.0","private":true,"scripts":{"dev":"node server.mjs","build":"node build.mjs"}}
+
